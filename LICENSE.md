@@ -1,4 +1,4 @@
-# 
+# Natif YNAB préréglages pour Mac OS | Exclusif YNAB préréglages pour PC Windows. Avec facturation et intégration d'API — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
